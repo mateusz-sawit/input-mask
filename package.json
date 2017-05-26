@@ -1,0 +1,15 @@
+{
+  "name": "input-mask",
+  "version": "1.0.0",
+  "description": "Node module for Typecast 1.4 (release) by Ara Pehlivanian (http://arapehlivanian.com)",
+  "main": "typecast_1.4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "input",
+    "mask"
+  ],
+  "author": "SAWIT Mateusz Miklewski",
+  "license": "ISC"
+}
